@@ -1,0 +1,2 @@
+# aunoma
+Automated NoMachine Manager
